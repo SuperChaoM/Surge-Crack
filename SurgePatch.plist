@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.nssurge.inc.surge-ios",
+			"com.nssurge.inc.surge-ios.ne",
+		);
+	};
+}

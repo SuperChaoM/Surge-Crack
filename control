@@ -1,0 +1,9 @@
+Package: xyz.potatso.surgepatch
+Name: Surge-Patch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Potatso
+Author: Potatso
+Section: Tweaks
